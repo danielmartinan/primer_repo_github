@@ -1,4 +1,4 @@
-# Readme de mi primer repo en Github - Modificado desde develop
+# Readme de mi primer repo en Github - Modificado desde ambas ramas
 
 Este es mi primer repo de Github :smile:
 
