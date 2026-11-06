@@ -2,7 +2,7 @@
 
 Este es mi primer repo de Github :smile:
 
-## Nuevo apartado
+## Nuevo apartado modificado desde main
 
 Añado una nueva sección al readme para probar a hacer push
 
