@@ -2,7 +2,7 @@
 
 Este es mi primer repo de Github :smile:
 
-## Nuevo apartado
+## Nuevo apartado modificado en feature/vscode
 
 Añado una nueva sección al readme para probar a hacer push
 
@@ -11,3 +11,4 @@ Añado una nueva sección al readme para probar a hacer push
 - Añado desde feature/vscode una lista de cambios realizados en vscode
 - Otro punto de la lista
 - El último punto de la lista
+
